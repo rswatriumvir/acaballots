@@ -1,0 +1,19 @@
+Package: acaballots
+Title: State Data for ACA Ballot Initiatives 
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Rohit",
+           family = "Swain",
+           role = c("aut", "cre"),
+           email = "roswain2002@gmail.com", 
+	     comment = c(ORCID = "https://github.com/rswatriumvir"))
+Description: What the package does (one paragraph).
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1
+Depends: 
+    R (>= 2.10)
+Imports: 
+    tibble
